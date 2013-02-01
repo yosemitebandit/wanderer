@@ -51,3 +51,7 @@ $ git push
 And on January 31st, only 15-or-so hours after running the above, there is a commit for November 6th in my contributions pane.
 None of the other spoofed dates appear.
 So far, this suggests that modifying the system time is the way to go..
+
+
+### 'API'
+`GET https://github.com/users/yosemitebandit/contributions_calendar_data`
